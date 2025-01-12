@@ -4,9 +4,9 @@ This is a simple network scanner based on python programming
 # Requirements
 
 First of install requirements using following command.
-
+```
 pip install -r requirement.txt
-
+```
 # Usage
 
 //For single IP
